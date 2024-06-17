@@ -1,4 +1,4 @@
-																															# YOLO-V9 for Animal Life Detection
+	#YOLO-V9 for Animal Life Detection
 
 This repository contains a Jupyter Notebook that demonstrates how to use the YOLO-V9 (You Only Look Once, Version 9) model for detecting wildlife in images. The notebook includes steps to set up the environment, download necessary datasets and model weights, and perform inference and training using YOLO-V9.
 

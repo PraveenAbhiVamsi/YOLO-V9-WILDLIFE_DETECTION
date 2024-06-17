@@ -7,7 +7,7 @@ Ensure that you have access to a GPU for faster processing. You can verify GPU a
 
 `!nvidia-smi`
 Clone the YOLO-V9 repository and install the necessary dependencies. Note that we are using a forked version of the repository due to a bug in the original.
-```python
+\```python
 import os
 HOME = os.getcwd()
 print(HOME)
@@ -16,4 +16,5 @@ print(HOME)
 %cd yolov9
 !pip install -r requirements.txt -q
 !pip install -q roboflow
+\```
 
